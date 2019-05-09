@@ -521,10 +521,3 @@ print_prediction(j=250)
 
 
 Looks like my network model works.
-
-
-```python
-!jupyter nbconvert --to markdown Choropleth_map.ipynb
-!mv Choropleth_map.md README.md
-```
-# classifying_images
